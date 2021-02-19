@@ -39,11 +39,8 @@ Apart from coding, I am interested in web development and Android app developmen
 <a href="https://github.com/manthanraut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanraut&layout=compact" />
 </a>
-<a href="https://github.com/manthanraut">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanraut&show_icons=true&theme=radical" alt="Manthan's GitHub Stats" />
-</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanraut&show_icons=true&locale=en&layout=compact" alt="manthanraut" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanraut&show_icons=true&locale=en&layout=compact&theme=radical" alt="manthanraut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanraut&show_icons=true&locale=en" alt="manthanraut" /></p>
 
