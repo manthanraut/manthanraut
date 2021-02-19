@@ -2,7 +2,7 @@
 <!--
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 -->
-## &#x1F60E; Hello, Coders! <img src="https://github.com/manthanraut/profile/blob/master/wave.gif" width="30px"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanraut&label=Profile%20views&color=0e75b6&style=flat" alt="manthanraut" /> </p>
+## &#x1F60E; Hello, Coders! <img src="https://github.com/manthanraut/profile/blob/master/wave.gif" width="30px"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanraut&label=Profile%20views&color=0e75b6&style=flat" alt="manthanraut" /></p>
 
 My name is Manthan Raut. I am currently an undergraduate student searching for job where I can use my skills and also learn new skills to upgrade my skill set.You can follow me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-raut-130a09185/) &nbsp; OR &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manthanraut)
 
@@ -42,6 +42,12 @@ Apart from coding, I am interested in web development and Android app developmen
 <a href="https://github.com/manthanraut">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanraut&show_icons=true&theme=radical" alt="Manthan's GitHub Stats" />
 </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanraut&show_icons=true&locale=en&layout=compact" alt="manthanraut" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthanraut&show_icons=true&locale=en" alt="manthanraut" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanraut&" alt="manthanraut" /></p>
 
 <!-- links to social media icons -->
 
