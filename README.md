@@ -2,15 +2,24 @@
 <!--
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 -->
-## &#x1F60E; Hello, Coders! <img src="https://github.com/manthanraut/profile/blob/master/wave.gif" width="30px">
+## &#x1F60E; <p style="font-family: 'Georgia'">Hello, Coders!</p> <img src="https://github.com/manthanraut/profile/blob/master/wave.gif" width="30px"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanraut&label=Profile%20views&color=0e75b6&style=flat" alt="manthanraut" /> </p>
 
 My name is Manthan Raut. I am currently an undergraduate student searching for job where I can use my skills and also learn new skills to upgrade my skill set.You can follow me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-raut-130a09185/) &nbsp; OR &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manthanraut)
 
-## &#x1F603; Area of Interest
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanraut" alt="manthanraut" /></a> </p>
+
+## &#x1F603; <p style="font-family: 'Georgia'">Area of Interest</p>
 
 Apart from coding, I am interested in web development and Android app development. Checkout my Portfolio here --> [MyPortfolio](https://myportfolio-16.herokuapp.com/).
 
-## 🔧 Lamgauages, Skills, Frameworks & Tools
+## &#128221; <p style="font-family: 'Georgia'">Connect with me:</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/manthan-raut-130a09185/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manthan-raut-130a09185/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manthanraut16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="manthanraut16" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@manthan113" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@manthan113" height="30" width="40" /></a>
+</p>
+
+## 🔧 <p style="font-family: 'Georgia'">Langauages, Skills, Frameworks & Tools</p>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +34,7 @@ Apart from coding, I am interested in web development and Android app developmen
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; <p style="font-family: 'Georgia'">GitHub Stats</p>
 
 <a href="https://github.com/manthanraut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanraut&layout=compact" />
